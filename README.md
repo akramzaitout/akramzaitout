@@ -24,7 +24,7 @@
 
   <!-- Tech Stack -->
   <p>
-    <img src="https://skillicons.dev/icons?i=php,laravel,vue,vuetify,nuxt,js,react,next,ts,tailwind,sass,css,html,python,tensorflow,pytorch,postgres,mysql,mongodb,redis,nodejs,nestjs,graphql,docker,aws,gcp,nginx,linux,firebase,git&perline=12" alt="Tech Stack Grid" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,ts,js,vue,nuxt,react,next,nodejs,nestjs,python,postgres,mysql,mongodb,redis,docker,aws,gcp,nginx,linux,graphql,tailwind,sass,css,html,git,firebase,tensorflow,pytorch,vuetify&perline=12" alt="Tech Stack Grid" />
   </p>
 
 </div>
