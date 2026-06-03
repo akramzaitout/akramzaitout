@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Akram Zaitout</h1>
   <h3>Full Stack Developer & Data Scientist</h3>
-  <p>Building scalable systems with modern web tech, minimalist UI design, and AI.</p>
+  <p>I enjoy building scalable systems with modern web tech, simple and clean UI design, and practical AI solutions that actually solve real problems.</p>
 
   <br />
 
@@ -47,23 +47,6 @@
   </p>
 
   <br /><br />
-
-  <!-- Highlighted Work -->
-  <h3>🚀 Featured Open Source Work</h3>
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <b><a href="https://github.com/akramzaitout">Laravel KaTeX</a></b><br/>
-        <p>A secure package for rendering mathematical expressions seamlessly within the Laravel ecosystem.</p>
-      </td>
-      <td width="50%" align="center">
-        <b><a href="https://github.com/akramzaitout">Eloquent Grammar</a></b><br/>
-        <p>A recursive descent parser designed for advanced and dynamic Laravel queries.</p>
-      </td>
-    </tr>
-  </table>
-
-  <br />
   
   <p><i>Fluent in Arabic, English, and French. Based in Algeria.</i></p>
 </div>
