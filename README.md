@@ -1,11 +1,16 @@
 <div align="center">
+
   <h1>Hi 👋, I'm Akram Zaitout</h1>
   <h3>Full Stack Developer & Data Scientist</h3>
-  <p>I enjoy building scalable systems with modern web tech, simple and clean UI design, and practical AI solutions that actually solve real problems.</p>
 
-  <br />
+  <p>
+    I enjoy building scalable systems with modern web technologies 💻, 
+    clean and simple UI design ✨, and practical AI solutions that solve real-world problems ⚡.
+  </p>
 
-  <!-- Connect Section -->
+  <br/>
+
+  <!-- Social Links -->
   <p>
     <a href="https://linkedin.com/in/akramzaitout" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -15,38 +20,11 @@
     </a>
   </p>
 
-  <br /><br />
+  <br/>
 
-  <!-- Tech Stack Categorized -->
-  <h3>🛠️ Tech Stack & Ecosystem</h3>
-  
-  <p><b>Backend & Architecture</b></p>
+  <!-- Tech Stack -->
   <p>
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,mysql,postgres,mongodb,redis" alt="Backend Stack" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,vue,vuetify,nuxt,js,react,next,ts,tailwind,sass,css,html,python,tensorflow,pytorch,postgres,mysql,mongodb,redis,nodejs,nestjs,graphql,docker,aws,gcp,nginx,linux,firebase,git&perline=12" alt="Tech Stack Grid" />
   </p>
 
-  <br />
-
-  <p><b>Frontend Development</b></p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,tailwind,sass,html,css" alt="Frontend Stack" />
-  </p>
-
-  <br />
-
-  <p><b>Data Science & Machine Learning</b></p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" alt="Data Stack" />
-  </p>
-
-  <br />
-
-  <p><b>DevOps & Infrastructure</b></p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,linux,nginx" alt="DevOps Stack" />
-  </p>
-
-  <br /><br />
-  
-  <p><i>Fluent in Arabic, English, and French. Based in Algeria.</i></p>
 </div>
